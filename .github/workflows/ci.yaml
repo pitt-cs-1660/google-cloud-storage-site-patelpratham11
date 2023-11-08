@@ -22,10 +22,17 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       #build you static site here if needed
-      - id: 'build'
-        name: 'Build'
-        run: |
-          gatsby build
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+
+      - name: Install Project Dependencies
+        run: npm ci
+      - name: Install Gatsby CLI
+        run: npm install -g gatsby-cli
+      - name: Build
+        run: gatsby build
 
 
 
