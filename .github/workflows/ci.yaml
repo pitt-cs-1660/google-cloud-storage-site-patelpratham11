@@ -25,8 +25,9 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: '13.x'
-
+          node-version: '16.x'
+      - name: Naviage to Directory
+        run: cd portfolio
       - name: Install Project Dependencies
         run: npm ci
       - name: Install Gatsby CLI
