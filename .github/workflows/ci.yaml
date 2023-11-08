@@ -25,7 +25,7 @@ jobs:
       - id: 'build'
         name: 'Build'
         run: |
-          cd portfolio; gatsby build
+          gatsby build
 
 
 
