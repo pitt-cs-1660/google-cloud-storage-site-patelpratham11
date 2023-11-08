@@ -26,8 +26,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '18.x'
-      # - name: Naviage to Directory
-      #   run: cd portfolio; pwd
       - name: Install Project Dependencies
         run: npm install --force
       - name: Install Gatsby CLI
