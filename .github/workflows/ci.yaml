@@ -29,7 +29,7 @@ jobs:
       - name: Naviage to Directory
         run: cd portfolio
       - name: Install Project Dependencies
-        run: npm install
+        run: npm install --force
       - name: Install Gatsby CLI
         run: npm install -g gatsby-cli
       - name: Build
