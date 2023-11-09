@@ -40,8 +40,8 @@ jobs:
         name: 'Authenticate to Google Cloud'
         uses: 'google-github-actions/auth@v1'
         with:
-          workload_identity_provider: 'projects/616153226597/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
-          service_account: 'my-service-account@cs1660-final-404020.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
+          workload_identity_provider: 'projects/616153226597/locations/global/workloadIdentityPools/github-actions-pool/providers/github-actions-provider'
+          service_account: 'github-actions-service-account@cs1660-final-404020.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
 
       # upload files to GCS
       - id: 'upload-static-files'
