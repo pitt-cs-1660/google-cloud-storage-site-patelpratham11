@@ -87,7 +87,7 @@ const libraries = [
 ]
 
 const concepts = [
-    "OOP", "Agile", "Team-Based Development", "Responsive Design", "SMTP", "Soldering"
+    "OOP", "Agile", "Team-Based Development", "Responsive Design", "SMTP", "Soldering", "CI/CD", "Kubernetes", "Docker"
 ]
 
 const softSkills = [
@@ -95,7 +95,7 @@ const softSkills = [
 ]
 
 const softwares = [
-    "Git", "Adobe Tools", "Microsoft Suite", "OBS", "MS Azure", "GitLab", "Azure Dev Ops"
+    "Git", "Adobe Tools", "Microsoft Suite", "OBS", "MS Azure", "GitLab", "Azure Dev Ops", "Google Cloud Platform"
 ]
 
 const hobbies = [

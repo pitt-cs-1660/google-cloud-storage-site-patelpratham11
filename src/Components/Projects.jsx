@@ -66,6 +66,18 @@ const useStyles = makeStyles((theme) => ({
 
 const projects = [
   {
+    name: "oxiDice",
+    tags: ["Rust", "Crates"],
+    description: "A simple Rust-based CLI that accepts various arguments to generate entropically-favored passcodes or passphrases. It can take special parameters to generate passcodes with numbers and/or special characters. Passphrases are based on the idea of diceware and are generated from EFF diceware list for 5 dice.",
+    link: "https://github.com/patelpratham11/oxiDice"
+  },
+  {
+    name: "GCP Static Site",
+    tags: ["GCP", "CI/CD", "Github Actions"],
+    description: "Final project for CS 1660 (Intro to Cloud Computing). I hosted a static website within a Google Cloud Storage Bucket and configured a Load Balancer to route traffic from port 80 and 443. Finally, a Github Action was created to allow seamless deployment and updates of the bucket whenever I pushed an update to the website.",
+    link: "https://github.com/pitt-cs-1660/google-cloud-storage-site-patelpratham11"
+  },
+  {
     name: "Raspberry Pi Pico",
     tags: ["RPI Pico", "MicroPython"],
     description: "I supported updating the firmware on an already-existing codebase for the Raspberry Pi Pico. We programmed a board to light up in various different patterns that would flash based on input provided via an external sensor. We utilized MicroPython via VS Code, where we would execute code directly from the Pico. I worked on this project as an Intern at Protiviti, summer 2023.",

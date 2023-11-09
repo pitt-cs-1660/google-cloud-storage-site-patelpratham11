@@ -107,7 +107,7 @@ export default function Education() {
                     </Typography>
                     <Typography variant="subtitle1" className={styles.pittInfo}> Major: Computer Science </Typography>
                     <Typography variant="subtitle1" className={styles.pittInfo}> Minor: Chemistry</Typography>
-                    <Chip label="GPA: 3.4"></Chip>
+                    <Chip label="GPA: 3.46"></Chip>
                   </CardContent>
                 </Card>
               </Grid>

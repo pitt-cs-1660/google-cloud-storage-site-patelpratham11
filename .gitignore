@@ -1,2 +1,5 @@
 .idea
 .cache/
+stacktrace.txt
+node_modules/
+public/
