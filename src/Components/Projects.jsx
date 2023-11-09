@@ -12,6 +12,8 @@ import {
   Box,
 } from "@material-ui/core";
 import { GitHub } from "@material-ui/icons";
+import LaunchIcon from '@mui/icons-material/Launch';
+import LinkOffIcon from '@mui/icons-material/LinkOff';
 import { Link } from "gatsby";
 import { shadows } from "@mui/system";
 
@@ -76,6 +78,12 @@ const projects = [
     tags: ["GCP", "CI/CD", "Github Actions"],
     description: "Final project for CS 1660 (Intro to Cloud Computing). I hosted a static website within a Google Cloud Storage Bucket and configured a Load Balancer to route traffic from port 80 and 443. Finally, a Github Action was created to allow seamless deployment and updates of the bucket whenever I pushed an update to the website.",
     link: "https://github.com/pitt-cs-1660/google-cloud-storage-site-patelpratham11"
+  },
+  {
+    name: "Publication",
+    tags: ["R", "Python", "Research", "Co-Author"],
+    description: "Co-authored a paper published by Cell in 2023 while working in the Mathys Lab. I helped create, run, and analyze the scripts utilized to generate the information behind this paper. We worked with the ROSMAP cohort to find differentially expressed genes in patients and attempted to draw a link between expressions and Alzheimer's Disease. ",
+    link: "https://pubmed.ncbi.nlm.nih.gov/37774677/"
   },
   {
     name: "Raspberry Pi Pico",
@@ -156,11 +164,16 @@ export default function Projects() {
                         <Grid container justifyContent="space-between">
 
                           <Grid item className={styles.projectExtra}>
-                            <Link href={project.link}>
+                            {(project.link != "") ? <Link href={project.link}>
                               <IconButton>
-                                <GitHub />
+                                <LaunchIcon />
                               </IconButton>
-                            </Link>
+                            </Link> : <></>}
+                            {/* <Link href={project.link}>
+                            <IconButton>
+                                <LaunchIcon />
+                              </IconButton>
+                            </Link> */}
                           </Grid>
                             <Grid
                               item
