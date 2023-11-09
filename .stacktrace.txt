@@ -1,0 +1,168 @@
+Run google-github-actions/upload-cloud-storage@v1
+Warning: The "process_gcloudignore" option is true, but no .gcloudignore file was found. If you do not intend to process a gcloudignore file, set "process_gcloudignore" to false.
+Upload files
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/partytown.js to gs://prp48-1660/~partytown/partytown.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/partytown-sw.js to gs://prp48-1660/~partytown/partytown-sw.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/partytown-media.js to gs://prp48-1660/~partytown/partytown-media.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/partytown-atomics.js to gs://prp48-1660/~partytown/partytown-atomics.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown.js to gs://prp48-1660/~partytown/debug/partytown.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown-ww-sw.js to gs://prp48-1660/~partytown/debug/partytown-ww-sw.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown-ww-atomics.js to gs://prp48-1660/~partytown/debug/partytown-ww-atomics.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown-sw.js to gs://prp48-1660/~partytown/debug/partytown-sw.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown-sandbox-sw.js to gs://prp48-1660/~partytown/debug/partytown-sandbox-sw.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown-media.js to gs://prp48-1660/~partytown/debug/partytown-media.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/~partytown/debug/partytown-atomics.js to gs://prp48-1660/~partytown/debug/partytown-atomics.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/webpack.stats.json to gs://prp48-1660/webpack.stats.json
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/webpack-runtime-342e286e0fa197624374.js.map to gs://prp48-1660/webpack-runtime-342e286e0fa197624374.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/webpack-runtime-342e286e0fa197624374.js to gs://prp48-1660/webpack-runtime-342e286e0fa197624374.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/99412467058de43da6836fee351bf0a7/bf711/uc.png to gs://prp48-1660/static/99412467058de43da6836fee351bf0a7/bf711/uc.png
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/99412467058de43da6836fee351bf0a7/85d03/uc.png to gs://prp48-1660/static/99412467058de43da6836fee351bf0a7/85d03/uc.png
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/99412467058de43da6836fee351bf0a7/6df71/uc.png to gs://prp48-1660/static/99412467058de43da6836fee351bf0a7/6df71/uc.png
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/99412467058de43da6836fee351bf0a7/49045/uc.webp to gs://prp48-1660/static/99412467058de43da6836fee351bf0a7/49045/uc.webp
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/99412467058de43da6836fee351bf0a7/478b5/uc.webp to gs://prp48-1660/static/99412467058de43da6836fee351bf0a7/478b5/uc.webp
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/99412467058de43da6836fee351bf0a7/2f73e/uc.webp to gs://prp48-1660/static/99412467058de43da6836fee351bf0a7/2f73e/uc.webp
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/5d2c5ae071c7e948f7d3d77dfa2d087e/de790/uc.webp to gs://prp48-1660/static/5d2c5ae071c7e948f7d3d77dfa2d087e/de790/uc.webp
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/5d2c5ae071c7e948f7d3d77dfa2d087e/d4d2a/uc.jpg to gs://prp48-1660/static/5d2c5ae071c7e948f7d3d77dfa2d087e/d4d2a/uc.jpg
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/5d2c5ae071c7e948f7d3d77dfa2d087e/a79fe/uc.webp to gs://prp48-1660/static/5d2c5ae071c7e948f7d3d77dfa2d087e/a79fe/uc.webp
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/5d2c5ae071c7e948f7d3d77dfa2d087e/863ef/uc.jpg to gs://prp48-1660/static/5d2c5ae071c7e948f7d3d77dfa2d087e/863ef/uc.jpg
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/5d2c5ae071c7e948f7d3d77dfa2d087e/669f3/uc.jpg to gs://prp48-1660/static/5d2c5ae071c7e948f7d3d77dfa2d087e/669f3/uc.jpg
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/static/5d2c5ae071c7e948f7d3d77dfa2d087e/2d898/uc.webp to gs://prp48-1660/static/5d2c5ae071c7e948f7d3d77dfa2d087e/2d898/uc.webp
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/page-data/index/page-data.json to gs://prp48-1660/page-data/index/page-data.json
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/page-data/app-data.json to gs://prp48-1660/page-data/app-data.json
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/page-data/404/page-data.json to gs://prp48-1660/page-data/404/page-data.json
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/page-data/404.html/page-data.json to gs://prp48-1660/page-data/404.html/page-data.json
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/index.html to gs://prp48-1660/index.html
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/framework-9993f33c92d76b0f57f5.js.map to gs://prp48-1660/framework-9993f33c92d76b0f57f5.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/framework-9993f33c92d76b0f57f5.js.LICENSE.txt to gs://prp48-1660/framework-9993f33c92d76b0f57f5.js.LICENSE.txt
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/framework-9993f33c92d76b0f57f5.js to gs://prp48-1660/framework-9993f33c92d76b0f57f5.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/component---src-pages-index-jsx-4b2eda7c46d70a7fa74b.js.map to gs://prp48-1660/component---src-pages-index-jsx-4b2eda7c46d70a7fa74b.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/component---src-pages-index-jsx-4b2eda7c46d70a7fa74b.js.LICENSE.txt to gs://prp48-1660/component---src-pages-index-jsx-4b2eda7c46d70a7fa74b.js.LICENSE.txt
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/component---src-pages-index-jsx-4b2eda7c46d70a7fa74b.js to gs://prp48-1660/component---src-pages-index-jsx-4b2eda7c46d70a7fa74b.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/component---src-pages-404-js-f545861abef2c4042233.js.map to gs://prp48-1660/component---src-pages-404-js-f545861abef2c4042233.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/component---src-pages-404-js-f545861abef2c4042233.js to gs://prp48-1660/component---src-pages-404-js-f545861abef2c4042233.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/chunk-map.json to gs://prp48-1660/chunk-map.json
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/app-6d333656b9c242635e81.js.map to gs://prp48-1660/app-6d333656b9c242635e81.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/app-6d333656b9c242635e81.js.LICENSE.txt to gs://prp48-1660/app-6d333656b9c242635e81.js.LICENSE.txt
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/app-6d333656b9c242635e81.js to gs://prp48-1660/app-6d333656b9c242635e81.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/_gatsby/slices/_gatsby-scripts-1.html to gs://prp48-1660/_gatsby/slices/_gatsby-scripts-1.html
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/843-de415507fbc137938789.js.map to gs://prp48-1660/843-de415507fbc137938789.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/843-de415507fbc137938789.js to gs://prp48-1660/843-de415507fbc137938789.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/731-7e40bb16ec50afd20b6d.js.map to gs://prp48-1660/731-7e40bb16ec50afd20b6d.js.map
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/731-7e40bb16ec50afd20b6d.js.LICENSE.txt to gs://prp48-1660/731-7e40bb16ec50afd20b6d.js.LICENSE.txt
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/731-7e40bb16ec50afd20b6d.js to gs://prp48-1660/731-7e40bb16ec50afd20b6d.js
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/404/index.html to gs://prp48-1660/404/index.html
+  Uploading /home/runner/work/google-cloud-storage-site-patelpratham11/google-cloud-storage-site-patelpratham11/public/404.html to gs://prp48-1660/404.html
+  Error: google-github-actions/upload-cloud-storage failed with: permission 'iam.serviceAccounts.getAccessToken' denied on resource (or it may not exist).
+  node:internal/process/promises:279
+              triggerUncaughtException(err, true /* fromPromise */);
+              ^
+  
+  GaxiosError: Permission 'iam.serviceAccounts.getAccessToken' denied on resource (or it may not exist).
+      at Gaxios._request (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:183:5830)
+      at runMicrotasks (<anonymous>)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async IdentityPoolClient.getImpersonatedAccessToken (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:183:28678)
+      at async IdentityPoolClient.refreshAccessTokenAsync (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:183:27738)
+      at async IdentityPoolClient.getAccessToken (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:183:25967)
+      at async IdentityPoolClient.getRequestHeaders (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:183:26119)
+      at async IdentityPoolClient.requestAsync (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:183:26741)
+      at async Upload.makeRequest (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:139:9714)
+      at async c.retries (/home/runner/work/_actions/google-github-actions/upload-cloud-storage/v1/dist/index.js:139:5051) {
+    response: {
+      config: {
+        url: 'https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/github-actions-service-account@cs1660-final-404020.iam.gserviceaccount.com:generateAccessToken',
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: '***',
+          'User-Agent': 'google-api-nodejs-client/8.7.0',
+          'x-goog-api-client': 'gl-node/16.20.2 auth/8.7.0',
+          Accept: 'application/json'
+        },
+        data: {
+          scope: [
+            'https://www.googleapis.com/auth/iam',
+            'https://www.googleapis.com/auth/cloud-platform',
+            'https://www.googleapis.com/auth/devstorage.full_control'
+          ],
+          lifetime: '3600s'
+        },
+        responseType: 'json',
+        paramsSerializer: [Function: paramsSerializer],
+        body: '{"scope":["https://www.googleapis.com/auth/iam","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/devstorage.full_control"],"lifetime":"3600s"}',
+        validateStatus: [Function: validateStatus]
+      },
+      data: {
+        error: {
+          code: 403,
+          message: "Permission 'iam.serviceAccounts.getAccessToken' denied on resource (or it may not exist).",
+          errors: [
+            {
+              message: "Permission 'iam.serviceAccounts.getAccessToken' denied on resource (or it may not exist).",
+              domain: 'global',
+              reason: 'forbidden'
+            }
+          ],
+          status: 'PERMISSION_DENIED',
+          details: [
+            {
+              '@type': 'type.googleapis.com/google.rpc.ErrorInfo',
+              reason: 'IAM_PERMISSION_DENIED',
+              domain: 'iam.googleapis.com',
+              metadata: [Object]
+            }
+          ]
+        }
+      },
+      headers: {
+        'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+        'cache-control': 'private',
+        connection: 'close',
+        'content-encoding': 'gzip',
+        'content-type': 'application/json; charset=UTF-8',
+        date: 'Thu, 09 Nov 2023 01:39:43 GMT',
+        server: 'scaffolding on HTTPServer2',
+        'transfer-encoding': 'chunked',
+        vary: 'Origin, X-Origin, Referer',
+        'x-content-type-options': 'nosniff',
+        'x-frame-options': 'SAMEORIGIN',
+        'x-xss-protection': '0'
+      },
+      status: 403,
+      statusText: 'Forbidden',
+      request: {
+        responseURL: 'https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/github-actions-service-account@cs1660-final-404020.iam.gserviceaccount.com:generateAccessToken'
+      }
+    },
+    config: {
+      url: 'https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/github-actions-service-account@cs1660-final-404020.iam.gserviceaccount.com:generateAccessToken',
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: '***',
+        'User-Agent': 'google-api-nodejs-client/8.7.0',
+        'x-goog-api-client': 'gl-node/16.20.2 auth/8.7.0',
+        Accept: 'application/json'
+      },
+      data: {
+        scope: [
+          'https://www.googleapis.com/auth/iam',
+          'https://www.googleapis.com/auth/cloud-platform',
+          'https://www.googleapis.com/auth/devstorage.full_control'
+        ],
+        lifetime: '3600s'
+      },
+      responseType: 'json',
+      paramsSerializer: [Function: paramsSerializer],
+      body: '{"scope":["https://www.googleapis.com/auth/iam","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/devstorage.full_control"],"lifetime":"3600s"}',
+      validateStatus: [Function: validateStatus]
+    },
+    code: 403,
+    errors: [
+      {
+        message: "Permission 'iam.serviceAccounts.getAccessToken' denied on resource (or it may not exist).",
+        domain: 'global',
+        reason: 'forbidden'
+      }
+    ]
+  }
