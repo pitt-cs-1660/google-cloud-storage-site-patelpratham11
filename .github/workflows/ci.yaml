@@ -1,5 +1,5 @@
 name: Static Site
-
+# please work
 on:
   push:
     branches:
@@ -21,11 +21,18 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      # build you static site here if needed
-      # - id: 'build'
-      #   name: 'Build'
-      #   run: |
-      #     hugo --gc --minify
+      #build you static site here if needed
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '18.x'
+      - name: Install Project Dependencies
+        run: npm install --force
+      - name: Install Gatsby CLI
+        run: npm install -g gatsby-cli
+      - name: Build
+        run: gatsby build
+
 
 
       # configure gcloud `setup-gcloud` automatically
@@ -33,14 +40,14 @@ jobs:
         name: 'Authenticate to Google Cloud'
         uses: 'google-github-actions/auth@v1'
         with:
-          workload_identity_provider: 'projects/143616246873/locations/global/workloadIdentityPools/<YOUR POOL HERE>/providers/<YOUR PROVIDER HERE>'
-          service_account: 'github-actions-service-account@<YOUR PROJECT ID>.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
+          workload_identity_provider: 'projects/616153226597/locations/global/workloadIdentityPools/github-actions-pool/providers/github-actions-provider'
+          service_account: 'github-actions-service-account@cs1660-final-404020.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
 
       # upload files to GCS
       - id: 'upload-static-files'
         uses: 'google-github-actions/upload-cloud-storage@v1'
         with:
           path: 'public' # UPDATE THIS TO YOUR BUILD/FILES DIRECTORY
-          destination: 'storage-bucket-name' # UPDATE THIS TO YOUR BUCKET NAME
+          destination: 'prp48-1660' # UPDATE THIS TO YOUR BUCKET NAME
           parent: false
 
